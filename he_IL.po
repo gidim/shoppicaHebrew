@@ -1,0 +1,523 @@
+# Translation of Shoppica Theme in English
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-03-28 00:59-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.4\n"
+"Project-Id-Version: Twenty Ten\n"
+"POT-Creation-Date: \n"
+"Last-Translator: cvetan <cvetanov@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+
+# 404.php
+msgid "The page you requested cannot be found!"
+msgstr "העמוד לא קיים"
+
+msgid "Continue"
+msgstr "המשך"
+
+# archive.php
+msgid "Category:"
+msgstr "קטגוריה"
+
+msgid "Articles posted by:"
+msgstr "מאמרים על ידי"
+
+msgid "Posts tagged:"
+msgstr "פוסטים"
+
+msgid "Archive for"
+msgstr "ארכיון עבור"
+
+msgid "Blog Archives"
+msgstr "ארכיון בלוג"
+
+msgid "Author:"
+msgstr "מחבר"
+
+# comments.php
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "פוסט מוגן בסיסמא. הזמן סיסמא לצפיה"
+
+msgid "1 Comment"
+msgstr "תגובה אחת"
+
+msgid "%1$s Comments"
+msgstr "%1$s Comments"
+
+msgid "Comments are closed."
+msgstr "ללא תגובות"
+
+# header.php
+msgid "Search"
+msgstr "חיפוש"
+
+msgid "Cart"
+msgstr "עגלת קניות"
+
+msgid "You are logged in as "
+msgstr "משתמש מחובר:"
+
+msgid "Welcome visitor you can"
+msgstr "ברוך הבא"
+
+msgid "login"
+msgstr "התחבר"
+
+msgid "or"
+msgstr "או"
+
+msgid "Logout"
+msgstr "התנתק"
+
+msgid "create an account"
+msgstr "צור חשבון"
+
+# functions.php
+msgid "Product added to shopping cart"
+msgstr "המוצר נוסף לעגלת הקניות"
+
+msgid "Continue shopping"
+msgstr "המשך בקניות"
+
+msgid "Go to shopping cart"
+msgstr "לעגלת הקניות"
+
+msgid "Your comment is awaiting approval"
+msgstr "ממתין לאישור"
+
+msgid "Please rate the product."
+msgstr "אנא דרג מוצר זה"
+
+# search.php
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "אנו מתנצלים אבל לא מצאנו מוצרים שעונים לדרישות"
+
+msgid "no comments"
+msgstr "אין תגובות"
+
+msgid "one comment"
+msgstr "תגובה אחת"
+
+msgid "% comments"
+msgstr "% תגובות"
+
+# single.php
+msgid "About"
+msgstr "אודות"
+
+msgid "All posts by"
+msgstr "כל הפוסטים על ידי"
+
+# portfolio
+msgid "All"
+msgstr "הכל"
+
+# products-page
+msgid "Sold out"
+msgstr "אזל המלאי"
+
+# single-product
+msgid "Availablity:"
+msgstr "זמינות"
+
+msgid "In stock"
+msgstr "במלאי"
+
+msgid "Out of stock"
+msgstr "אזל המלאי"
+
+msgid "Review"
+msgstr "ביקורת"
+
+msgid "Reviews"
+msgstr "ביקורות"
+
+msgid "Write a review"
+msgstr "כתוב ביקורת"
+
+msgid "Not yet rated"
+msgstr "ללא דירוג"
+
+msgid "Related Products"
+msgstr "מוצרים משלימים"
+
+# wpsc-user-log
+msgid "If you already have an account with us, please login at the"
+msgstr "אם יש לך חשבון, אנא התחבר"
+
+msgid "login page"
+msgstr "עמוד התחברות"
+
+msgid "Your Details"
+msgstr "פרטים"
+
+msgid "Username"
+msgstr "שם משתמש"
+
+msgid "Password"
+msgstr "סיסמא"
+
+msgid "Email"
+msgstr "כתובות דואר אלקטרוני"
+
+msgid "Re-enter password"
+msgstr "הזן סיסמא בשנית"
+
+msgid "Anti-spam"
+msgstr "אנטי ספאם"
+
+msgid "Register"
+msgstr "הרשם"
+
+msgid "New Customer"
+msgstr "לקוח חדש"
+
+msgid ""
+"By creating an account you will be able to shop faster, be up to date on an "
+"order's status, and keep track of the orders you have previously made."
+msgstr ""
+"על ידי יצירת חשבון תוכל לרכוש בצורה מהירה יוצר, לקבל עדכון על סטטוס ההזמנה "
+"ולשמור מידע על הזמנות קודמות"
+
+msgid "Returning Customer"
+msgstr "לקוח חוזר"
+
+# core.php
+msgid "Read more"
+msgstr "קרא עוד"
+
+# wpec-functions.php
+msgid "ERROR"
+msgstr "שגיאה"
+
+msgid "Please enter a username."
+msgstr "אנא הכנס שם משתמש"
+
+msgid ""
+"This username is invalid because it uses illegal characters. Please enter a "
+"valid username."
+msgstr "שם משתמש לא חוקי. הזן שם משתמש"
+
+msgid "This username is already registered, please choose another one."
+msgstr "משתמש קיים"
+
+msgid "Please type your e-mail address."
+msgstr "אנא הזן כתובת דואר אלקטרוני"
+
+msgid "The email address isn&#8217;t correct."
+msgstr "אימייל שגוי"
+
+msgid "This email is already registered, please choose another one."
+msgstr "אימייל קיים במערכת. בחר אחר"
+
+msgid "Password is required."
+msgstr "סיסמא דרושה"
+
+msgid "Re-enter your password."
+msgstr "הזן סיסמא בשנית"
+
+msgid "Passwords do not match."
+msgstr "הסיסמאות לא תואמות"
+
+msgid "Anti-spam field was filled in."
+msgstr "שדה אנטי ספאם מלא"
+
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr "שגיאה בהרשמה. אנא צור קשר עימנו"
+
+# widgets
+msgid "Title:"
+msgstr "שם:"
+
+msgid "Number to Show:"
+msgstr "כמות בתצוגה:"
+
+msgid "Thumbnail Size:"
+msgstr "גודל תמונה"
+
+msgid "App ID:"
+msgstr "App ID:"
+
+msgid "Channel Url:"
+msgstr "Channel Url:"
+
+msgid "Page ID:"
+msgstr "Page ID:"
+
+msgid "Locale:"
+msgstr "Locale:"
+
+msgid "Flickr ID:"
+msgstr "Flickr ID:"
+
+msgid "Type (user or group):"
+msgstr "Type (user or group):"
+
+msgid "Display (random or latest):"
+msgstr "Display (random or latest):"
+
+# comments
+msgid "0 Comments"
+msgstr "0 תגובות"
+
+msgid "% Comments"
+msgstr "% תגובות"
+
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "This post is password protected. Enter the password to view comments."
+
+msgid "Leave A Reply"
+msgstr "Leave A Reply"
+
+msgid "You must be"
+msgstr "You must be"
+
+msgid "logged in"
+msgstr "logged in"
+
+msgid " to post a comment."
+msgstr " to post a comment."
+
+msgid "Logged in as"
+msgstr "Logged in as"
+
+msgid "Log out"
+msgstr "Log out"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Your Comment:"
+msgstr "Your Comment:"
+
+msgid "Search Results For:"
+msgstr "Search Results For:"
+
+msgid "Posted on:"
+msgstr "Posted on:"
+
+msgid "Posted in:"
+msgstr "Posted in:"
+
+msgid "Pages"
+msgstr "Pages"
+
+msgid "Archives"
+msgstr "Archives"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Portfolio Categories"
+msgstr "Portfolio Categories"
+
+msgid "from %s"
+msgstr "<span class='s_price_legend s_before'>From</span> %s"
+
+msgid "from"
+msgstr "<span class='s_price_legend s_before'>From</span>"
+
+msgid "&laquo;"
+msgstr "&laquo;"
+
+msgid "&raquo;"
+msgstr "&raquo;"
+
+msgid "Save all changes"
+msgstr "Save all changes"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "General"
+msgstr "General"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Color Options"
+msgstr "Color Options"
+
+msgid "Font Options"
+msgstr "Font Options"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Options Reset"
+msgstr "Options Reset"
+
+msgid "Last Backup : "
+msgstr "Last Backup : "
+
+msgid "Save Changes"
+msgstr "Save Changes"
+
+msgid "Page %s"
+msgstr "Page %s"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Grid"
+msgstr "Grid"
+
+msgid "List"
+msgstr "List"
+
+msgid "Showing"
+msgstr "מציג"
+
+msgid "to"
+msgstr "to"
+
+msgid "of"
+msgstr "of"
+
+msgid "Launch project"
+msgstr "Launch project"
+
+msgid "Client:"
+msgstr "Client:"
+
+msgid "URL:"
+msgstr "URL:"
+
+msgid "Shipping:"
+msgstr "Shipping:"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Specifications"
+msgstr "Specifications"
+
+msgid "Gallery"
+msgstr "Gallery"
+
+msgid "Additional details"
+msgstr "Additional details"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "HTML is not translated!"
+msgstr "HTML is not translated!"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Submit Review"
+msgstr "Submit Review"
+
+msgid "Rating"
+msgstr "דירוג\t"
+
+msgid "Rate&hellip;"
+msgstr "Rate&hellip;"
+
+msgid "Perfect"
+msgstr "מושלם"
+
+msgid "Good"
+msgstr "טוב"
+
+msgid "Average"
+msgstr "ממוצע"
+
+msgid "Not that bad"
+msgstr "לא רע"
+
+msgid "Very Poor"
+msgstr "רע"
+
+msgid "Your Review"
+msgstr "גרוע"
+
+msgid "Product added to cart"
+msgstr "המוצר נוסף לעגלת הקניות"
+
+msgid " added to shopping cart"
+msgstr "התווסף לעגלת הקניות"
+
+msgid "Use Coupon Code"
+msgstr "השתמש בקופון"
+
+msgid "Enter coupon code:"
+msgstr "הזן קוד קופון:"
+
+msgid "You forgot to enter your name."
+msgstr "שם"
+
+msgid "You forgot to enter your email address."
+msgstr "אימייל"
+
+msgid "You entered an invalid email address."
+msgstr "אימייל לא תקין"
+
+msgid "You forgot to enter your comments."
+msgstr "You forgot to enter your comments."
+
+msgid "Thanks"
+msgstr "תודה"
+
+msgid "Your email was successfully sent."
+msgstr "האמייל שלך נשלח בהצלחה"
+
+msgid "Has an error submitting the form."
+msgstr "שגיאה בטופס"
+
+msgid "First"
+msgstr "פרטי"
+
+msgid "E-Mail Address"
+msgstr "כתובת אימייל"
+
+msgid "Enquiry"
+msgstr "Enquiry"
+
+msgid "Tax included!"
+msgstr "מע\"מ כלול"
+
+msgid "Ex Tax: "
+msgstr "מס נוסף"
+
+msgid "Be the first to write a review'"
+msgstr "היה הראשון לכתוב ביקורת"
+
+msgid "Nothing Found"
+msgstr "לא נמצאו פריטים"
+
+msgid "Photos"
+msgstr "תמונות"
+
+msgid "Home"
+msgstr "בית"
+
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור: %s"
+
+msgid "Use coupon code:"
+msgstr "השתמש בקופון:"
+
+msgid "Product options"
+msgstr "אפשרויות מוצר"
+
+msgid "This field is required."
+msgstr "שדה חובה"
+
+msgid "Select options"
+msgstr "בחר אפשרויות"
