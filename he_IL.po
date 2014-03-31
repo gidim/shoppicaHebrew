@@ -1,7 +1,7 @@
 # Translation of Shoppica Theme in English
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-03-28 00:59-0500\n"
+"PO-Revision-Date: 2014-03-31 18:07-0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -255,16 +255,16 @@ msgid "Page ID:"
 msgstr "Page ID:"
 
 msgid "Locale:"
-msgstr "Locale:"
+msgstr "שפה: "
 
 msgid "Flickr ID:"
 msgstr "Flickr ID:"
 
 msgid "Type (user or group):"
-msgstr "Type (user or group):"
+msgstr "סוג ( משתמש או קבוצה)"
 
 msgid "Display (random or latest):"
-msgstr "Display (random or latest):"
+msgstr "הצג (רנדומלי או עדכני)"
 
 # comments
 msgid "0 Comments"
@@ -274,61 +274,61 @@ msgid "% Comments"
 msgstr "% תגובות"
 
 msgid "This post is password protected. Enter the password to view comments."
-msgstr "This post is password protected. Enter the password to view comments."
+msgstr "מוגן סיסמא. הכנס סיסמא כדי לצפות בהערות"
 
 msgid "Leave A Reply"
-msgstr "Leave A Reply"
+msgstr "שלח הערה"
 
 msgid "You must be"
-msgstr "You must be"
+msgstr "אתה חייב להיות"
 
 msgid "logged in"
-msgstr "logged in"
+msgstr "מחובר"
 
 msgid " to post a comment."
-msgstr " to post a comment."
+msgstr " לשלוח הערה"
 
 msgid "Logged in as"
-msgstr "Logged in as"
+msgstr "מחובר כ"
 
 msgid "Log out"
-msgstr "Log out"
+msgstr "התנתק"
 
 msgid "Website"
-msgstr "Website"
+msgstr "אתר אינטרנט"
 
 msgid "Your Comment:"
-msgstr "Your Comment:"
+msgstr "ההערה שלך: "
 
 msgid "Search Results For:"
-msgstr "Search Results For:"
+msgstr "תוצאות חיפוש עבור: "
 
 msgid "Posted on:"
-msgstr "Posted on:"
+msgstr "נשלח ב: "
 
 msgid "Posted in:"
-msgstr "Posted in:"
+msgstr "נשלח ל: "
 
 msgid "Pages"
-msgstr "Pages"
+msgstr "עמודים"
 
 msgid "Archives"
-msgstr "Archives"
+msgstr "ארכיון"
 
 msgid "Tags"
-msgstr "Tags"
+msgstr "תגיות"
 
 msgid "Categories"
-msgstr "Categories"
+msgstr "קטגוריות"
 
 msgid "Portfolio Categories"
-msgstr "Portfolio Categories"
+msgstr "קטגוריות פורטפוליו"
 
 msgid "from %s"
-msgstr "<span class='s_price_legend s_before'>From</span> %s"
+msgstr "<span class='s_price_legend s_before'>מאת</span> %s"
 
 msgid "from"
-msgstr "<span class='s_price_legend s_before'>From</span>"
+msgstr "<span class='s_price_legend s_before'>מאת</span>"
 
 msgid "&laquo;"
 msgstr "&laquo;"
@@ -337,79 +337,79 @@ msgid "&raquo;"
 msgstr "&raquo;"
 
 msgid "Save all changes"
-msgstr "Save all changes"
+msgstr "שמור כל השינויים"
 
 msgid "Page"
-msgstr "Page"
+msgstr "עמוד"
 
 msgid "General"
-msgstr "General"
+msgstr "כללי"
 
 msgid "Layout"
-msgstr "Layout"
+msgstr "תצורה"
 
 msgid "Color Options"
-msgstr "Color Options"
+msgstr "אופציות צבע"
 
 msgid "Font Options"
-msgstr "Font Options"
+msgstr "אופציות פונט"
 
 msgid "Options"
-msgstr "Options"
+msgstr "אופציות"
 
 msgid "Options Reset"
-msgstr "Options Reset"
+msgstr "מחק אופציות"
 
 msgid "Last Backup : "
-msgstr "Last Backup : "
+msgstr "גיבוי אחרון: "
 
 msgid "Save Changes"
-msgstr "Save Changes"
+msgstr "שמור שינויים"
 
 msgid "Page %s"
-msgstr "Page %s"
+msgstr "עמוד %s"
 
 msgid "Show"
-msgstr "Show"
+msgstr "הצג"
 
 msgid "Grid"
-msgstr "Grid"
+msgstr "גריד"
 
 msgid "List"
-msgstr "List"
+msgstr "רשימה"
 
 msgid "Showing"
 msgstr "מציג"
 
 msgid "to"
-msgstr "to"
+msgstr "ל"
 
 msgid "of"
-msgstr "of"
+msgstr "של"
 
 msgid "Launch project"
 msgstr "Launch project"
 
 msgid "Client:"
-msgstr "Client:"
+msgstr "לקוח"
 
 msgid "URL:"
 msgstr "URL:"
 
 msgid "Shipping:"
-msgstr "Shipping:"
+msgstr "משלוח: "
 
 msgid "Description"
-msgstr "Description"
+msgstr "תיאור"
 
 msgid "Specifications"
-msgstr "Specifications"
+msgstr "מאפיינים"
 
 msgid "Gallery"
-msgstr "Gallery"
+msgstr "גלריה"
 
 msgid "Additional details"
-msgstr "Additional details"
+msgstr "פרטים נוספים"
 
 msgid "Note"
 msgstr "Note"
@@ -418,10 +418,10 @@ msgid "HTML is not translated!"
 msgstr "HTML is not translated!"
 
 msgid "Name"
-msgstr "Name"
+msgstr "שם"
 
 msgid "Submit Review"
-msgstr "Submit Review"
+msgstr "שלח ביקורת"
 
 msgid "Rating"
 msgstr "דירוג\t"
@@ -469,7 +469,7 @@ msgid "You entered an invalid email address."
 msgstr "אימייל לא תקין"
 
 msgid "You forgot to enter your comments."
-msgstr "You forgot to enter your comments."
+msgstr "שכחת למלא הערות"
 
 msgid "Thanks"
 msgstr "תודה"
